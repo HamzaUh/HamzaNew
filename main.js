@@ -9,3 +9,8 @@ let a = 10;
 let b = 3;
 console.log(a+b); // 13
 console.log(a%b); // 1
+
+
+console.log(5 > 2); // true
+console.log(5 == "5"); // true (comparaison de valeur)
+console.log(5 === "5"); // false (comparaison stricte)
